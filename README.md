@@ -3,5 +3,5 @@ A sketch which generates an isometric-style grid and then exports to a PDF for p
 
 It currently saves one generation and then exits after running.  It will overwrite the previous file, so rename the PDF if you like it.
 
-#Sample image
+# Sample image
 ![](iso_sample.png?raw=true)
